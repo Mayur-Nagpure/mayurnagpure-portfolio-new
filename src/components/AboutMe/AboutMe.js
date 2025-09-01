@@ -185,7 +185,7 @@ const AboutMe = () => {
           >
             {[
               {
-                href: '/files/MayurNagpure-Resume.pdf',
+                href: '/images/Mayur-Nagpure.pdf',
                 ariaLabel: 'Resume PDF',
                 icon: <AiOutlineFilePdf />,
                 hoverColor: '#8e6dfd',
