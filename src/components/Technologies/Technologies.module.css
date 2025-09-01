@@ -1,0 +1,15 @@
+/* Technologies.module.css */
+.sectionTitle {
+  font-size: 6rem;
+}
+
+@media (max-width: 768px) {
+  .sectionTitle {
+    font-size: 3rem;
+  }
+}
+@media (max-width: 480px) {
+  .sectionTitle {
+    font-size: 2rem;
+  }
+}
